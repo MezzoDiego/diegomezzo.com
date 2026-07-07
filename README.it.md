@@ -34,7 +34,7 @@
 
 ---
 
-## Screenshot
+## Anteprima del sito
 
 <p align="center">
   <img src="docs/screenshots/devices_mockup.png" width="100%" />
