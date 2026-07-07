@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Premium personal portfolio showcasing Diego Mezzo’s engineering identity, founder journey, and digital products.
+  Premium personal portfolio showcasing my engineering identity, founder journey, and digital products.
 </p>
 
 <p align="center">
@@ -37,9 +37,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/desktop.png" width="30%" />
-  <img src="docs/screenshots/tablet.png" width="30%" />
-  <img src="docs/screenshots/mobile.png" width="30%" />
+  <img src="docs/screenshots/devices_mockup.png" width="100%" />
 </p>
 
 ---
